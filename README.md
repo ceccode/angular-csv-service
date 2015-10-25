@@ -1,5 +1,10 @@
 # angular-csv-service
 
+[![Build Status][build-image]][build-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![Bower Version][bower-image]][bower-url]
+[![NPM version][npm-image]][npm-url]
+
 angular-csv-service is a simple AngularJS csv to json service.
 
 ## Usage
@@ -56,3 +61,16 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[build-url]: https://travis-ci.org/ceccode/angular-csv-service
+[build-image]: http://img.shields.io/travis/ceccode/angular-csv-service.png
+
+[depstat-url]: https://david-dm.org/ceccode/angular-csv-service
+[depstat-image]: https://david-dm.org/ceccode/angular-csv-service.svg
+
+[bower-url]: http://bower.io/search/?q=angular-csv-service
+[bower-image]: https://badge.fury.io/bo/angular-csv-service.png
+
+[npm-url]: https://www.npmjs.org/package/angular-csv-service
+[npm-image]: https://badge.fury.io/js/angular-csv-service.png
