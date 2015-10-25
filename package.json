@@ -1,0 +1,54 @@
+{
+  "name": "angular-csv-service",
+  "version": "0.1.0",
+  "description": "angular-csv-service is a tiny AngularJS csv to json service.",
+  "author": {
+    "name": "Francesco Falanga",
+    "email": "falanga.fra@gmail.com",
+    "url": "https://github.com/ceccode"
+  },
+  "homepage": "https://github.com/ceccode/angular-csv-service",
+  "bugs": {
+    "url": "https://github.com/ceccode/angular-csv-service/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "maintainers": [],
+  "contributors": [{
+    "name": "Francesco Falanga",
+    "email": "falanga.fra@gmail.com",
+    "url": "https://github.com/ceccode"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceccode/angular-csv-service.git"
+  },
+  "main": "angular-csv-service.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "service",
+    "angular",
+    "csv",
+    "service",
+    "json"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "gulp-karma": "*",
+    "karma-jasmine": "*",
+    "karma-coverage": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
