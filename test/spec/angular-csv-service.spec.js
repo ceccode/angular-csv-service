@@ -78,7 +78,7 @@ describe('Service: fCsv', function() {
         expect(lines[0]).toContain("id");
         expect(lines[0]).toContain("name");
 
-      });j
+      });
 
     });
 
